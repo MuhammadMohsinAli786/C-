@@ -1,0 +1,5 @@
+
+Name= Zain
+Age= 27
+Sallary= 20000
+working position= dispensor
